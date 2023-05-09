@@ -2,7 +2,12 @@
 
 It is currently able to push Lavaan and Mirt models to AI Ninja for post hoc score estimation.
 
-Install the package by calling `install_github("ianrothmann/ainr")`.
+Install the package:
+
+```R
+install.packages("remotes")
+remotes::install_github("ianrothmann/ainr")
+```
 
 You need to `install.packages("dotenv")` and create a `.env` file in your project.
 
