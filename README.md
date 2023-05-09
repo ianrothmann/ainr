@@ -15,6 +15,7 @@ The env file should look like this:
 ```
 AIN_URL=https://api.aininja.dev
 AIN_KEY=[Your key here]
+#Add an empty line at the end
 ```
 
 In your project, import dotenv and load your env file as follows:
