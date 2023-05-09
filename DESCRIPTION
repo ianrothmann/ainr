@@ -3,7 +3,7 @@ Type: Package
 Title: AINinja R Scoring
 Version: 0.1.0
 Author: Ian Rothmann
-Maintainer: Ian Rothmann ian.rothmann@fitt.ai
+Maintainer: ian.rothmann@fitt.ai
 Description: A package that published your Lavaan and MIRT models for post-hoc
     scoring to AINinja. Use with the AINinja SDK.
 License: MIT
